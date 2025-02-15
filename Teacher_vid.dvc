@@ -1,6 +1,5 @@
 outs:
-- md5: d5addd740498d090783a62e004d6d9bf.dir
-  size: 48485012958
-  nfiles: 930418
+- md5: de5574f69f33f5e470bffc0e72ddeb26.dir
+  nfiles: 1860636
   hash: md5
   path: Teacher_vid
